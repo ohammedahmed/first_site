@@ -5,5 +5,14 @@ body{
 
 h1{
   background-color:red;
+  color:black;
+  font-size:50px;
+  border:dashed 13px green;
+  box-shadow:4px 6px 70px 50px blue;
+  background-color:white;
+}
+
+.first-text{
   color:white;
+  background-color:black;
 }
