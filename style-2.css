@@ -15,4 +15,7 @@ h1{
 .first-text{
   color:white;
   background-color:black;
+  font-size:30px;
+  border:none;
+  box-shadow:none;
 }
